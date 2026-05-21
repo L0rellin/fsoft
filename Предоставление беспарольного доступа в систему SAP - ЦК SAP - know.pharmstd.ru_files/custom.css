@@ -1,0 +1,9 @@
+
+.rightFloat{
+ position: fixed;
+ height: 600px;
+ overflow: auto;
+ top: 100px;
+}
+
+
